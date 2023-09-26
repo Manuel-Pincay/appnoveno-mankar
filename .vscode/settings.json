@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/a5586c4e-8a6d-4680-818d-6e0a7c359539/resourceGroups/mankarweb9no_group/providers/Microsoft.Web/sites/mankarweb9no",
+    "appService.deploySubpath": "."
+}

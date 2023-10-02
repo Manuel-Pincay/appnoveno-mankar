@@ -1,14 +1,6 @@
 
 # Node
 node_modules/
-# Archivos de configuración de Angular
-/angular.json
-/package.json
-/tsconfig.json
-/tsconfig.app.json
-/tsconfig.spec.json
-/e2e/
-
 
 # Archivos generados por pruebas
 /*.spec.ts

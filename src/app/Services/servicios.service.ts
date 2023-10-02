@@ -25,7 +25,10 @@ import {
   providedIn: 'root',
 })
 export class ServiciosService {
-  private apiUrl = 'http://localhost:3000/noveno/api';
+  /* private apiUrl = 'http://localhost:3000/noveno/api'; */
+  private apiUrl = 'https:// mankarbackend-production.up.railway.app/noveno/api';
+
+
 
   constructor(private http: HttpClient) {}
 
